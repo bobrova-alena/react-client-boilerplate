@@ -1,0 +1,9 @@
+node_modules
+dist/
+.idea/.gitignore
+.idea/modules.xml
+.idea/react-client-boilerplate.iml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
