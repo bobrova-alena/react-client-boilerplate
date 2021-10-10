@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bobrova-alena/react-client-boilerplate"
+    "url": "https://github.com/bobrova-alena/react-client-boilerplate.git"
   },
   "devDependencies": {
     "@reduxjs/toolkit": "^1.5.0",
