@@ -1,6 +1,6 @@
 # react-client-boilerplate
 
-The react client application with a node.js server which proxies api requests to the api url specified via 
+The React client application with a node.js server which proxies api requests to the api url specified via 
 the API_URL environment variable or `http://localhost:8080` in case of absence the one.
 The Nodejs-api-server-boilerplate (https://github.com/bobrova-alena/nodejs-api-server-boilerplate.git)
 may be used as an api server.
