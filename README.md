@@ -26,7 +26,7 @@ may be used as an api server.
 4. Clone this repo using `git clone --depth=1 https://github.com/bobrova-alena/react-client-boilerplate <YOUR_PROJECT_NAME>`
 5. Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.
 6. Run `npm i` in order to install dependencies.
-7. Run `watch` script placed at the package.json to run the application at `http://localhost:8080`.
+7. Run `watch` script placed at the package.json to run the application at `http://localhost:3000`.
 
 ## Documentation
 - Styled Components: https://styled-components.com
