@@ -28,6 +28,17 @@ may be used as an api server.
 6. Run `npm i` in order to install dependencies.
 7. Run `watch` script placed at the package.json to run the application at `http://localhost:3000`.
 
+The scripts to work with project are places in a ```package.json``` file:
+
+1) ```build``` builds a client and a server in production mode.
+2) ```dev``` builds the client and the server in developer mode.
+3) ```watch``` builds the client and the server in developer watch mode and runs the project via the nodemon webpack plugin.
+4) ```clean``` deletes the 'dist' folder at the root of the project with bundled source scripts.
+5) ```lint:styles``` formats styled system styles.
+6) ```lint:code``` formats code.
+7) ```run:nodemon``` runs the project via nodemon.
+8) ```watch:prod``` builds the client and the server in production watch mode and runs the project via the nodemon webpack plugin.
+
 ## Documentation
 - Styled Components: https://styled-components.com
 - Styled System: https://styled-system.com
